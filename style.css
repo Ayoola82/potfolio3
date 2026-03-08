@@ -1,0 +1,61 @@
+body{
+font-family: Arial;
+margin:0;
+background:#0f172a;
+color:white;
+}
+
+header{
+text-align:center;
+padding:40px;
+background:#020617;
+}
+
+nav{
+display:flex;
+justify-content:center;
+gap:30px;
+padding:20px;
+background:#020617;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+font-weight:bold;
+}
+
+section{
+padding:60px;
+text-align:center;
+}
+
+.skill{
+display:inline-block;
+background:#1e293b;
+padding:10px 20px;
+margin:10px;
+border-radius:8px;
+}
+
+.project-card{
+background:#1e293b;
+padding:20px;
+margin:20px auto;
+width:250px;
+border-radius:10px;
+}
+
+button{
+padding:10px 25px;
+background:#38bdf8;
+border:none;
+border-radius:5px;
+cursor:pointer;
+}
+
+footer{
+text-align:center;
+padding:20px;
+background:#020617;
+}
